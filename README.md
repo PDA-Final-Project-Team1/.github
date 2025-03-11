@@ -1,1 +1,59 @@
-# .github
+# 📈 펫과 함께 시작하는 나만의 주식 마을 Trade Town #
+![Image](https://github.com/user-attachments/assets/64cd3fe5-18e7-4e39-86f7-6001c63244e7)
+- **배포 URL**:
+- **Test ID**:
+- **Test PW**: 
+<br><br>
+## 🏡 서비스 개요 ##
+주식 투자 초보자들이 재미있게 투자 개념을 익히고 지속적으로 시장에 관심을 가질 수 있도록 돕는 서비스
+<br><br>
+## ⁉️ 기획 배경 ##
+### 기존 서비스의 한계 ###
+- **주식 초보자들이 접근하기 어려운 UI/UX**: 복잡하고 전문적인 용어와 기능들이 많고, 시각적으로 매력적인 요소가 부족함
+- **초보자 맞춤형 학습 경로 부족**: 기초부터 고급까지의 다양하고 체계적인 학습 경로를 제공하지 않아 주식 초보자가 점진적으로 투자 지식을 습득하기 어려움
+### 주식 초보자들의 Pain Point ###
+- **높은 진입 장벽**: 기존의 주식 투자 서비스는 초보자들이 쉽게 이해하고 사용할 수 있도록 설계되지 않아 주식에 대한 관심을 잃거나, 처음 시작하는 데에 큰 부담을 느낌
+- **정보의 부족**: 주식 시장에 대한 교육 콘텐츠는 너무 전문적이고 어려운 언어로 제공되는 경우가 많아 어떻게 투자 지식을 쌓아야 할지 혼란스러움
+### 핵심 목표 ###
+- **초보자 친화적인 UI/UX**
+  - 복잡한 전문 용어를 최소화하고, 쉽고 직관적인 용어 사용
+  - 시각적으로 매력적인 디자인과 인터랙티브 요소 활용
+- **쉽고 재미있는 맞춤형 교육 콘텐츠 제공**
+  - 단계별 퀴즈를 통해 기초부터 고급까지 점진적으로 투자 지식을 습득하게 함
+  - 챗봇과 대화하며 실시간으로 자유롭게 질문하고 개별 학습 수준에 맞춘 답변을 얻을 수 있음
+<br><br>
+## 🐰 UI ##
+### 랜딩 페이지 ###
+![Image](https://github.com/user-attachments/assets/611ce95a-9727-4993-8fa1-e097f1540770)
+<br>
+### 메인 페이지 ###
+![Image](https://github.com/user-attachments/assets/f99bee8d-85d0-4d9c-8536-d40568403f26)
+<br>
+### 알뽑기 페이지 ###
+![Image](https://github.com/user-attachments/assets/8955356a-b34b-443c-9199-99d4b8471855)
+<br>
+### 퀴즈 페이지 ###
+![Image](https://github.com/user-attachments/assets/1151c11b-d853-4408-b60b-2f6432baec50)
+<br>
+### 투자 페이지 ###
+![Image](https://github.com/user-attachments/assets/e59b6cf3-2d4f-4ca6-bef3-a7158d924217)
+<br>
+### 종목 페이지 ###
+![Image](https://github.com/user-attachments/assets/57f9746e-0569-4254-b050-1037ad1cb698)
+<br>
+### 구매/판매 페이지 ###
+![Image](https://github.com/user-attachments/assets/7390ae28-b2fb-4594-8fdb-fbe9d6b55b50)
+<br>
+### 호가 페이지 ###
+![Image](https://github.com/user-attachments/assets/05192a9b-9461-4293-8f93-106597e21e25)
+<br>
+### 보유 주식 페이지 ###
+![Image](https://github.com/user-attachments/assets/33d4a825-dd5e-423e-bccf-36402513fc64)
+<br>
+### 거래 내역 페이지 ###
+![Image](https://github.com/user-attachments/assets/2bdd1da9-f9a0-46be-8937-c26668cf8d8a)
+<br><br>
+## 👥 팀원 소개 ##
+| 권지언 | 김정택 | 라수빈 | 박준기 | 이나민 | 장성준 |
+|--------|--------|--------|--------|--------|--------|
+| ![Image](https://github.com/user-attachments/assets/98664e7d-06b2-4d7e-86ba-aa61a07898bc) <br> [@kwonjieon](https://github.com/kwonjieon) | ![Image](https://github.com/user-attachments/assets/400267bb-187e-4298-94ee-b3c7a0c9a71c) <br> [@Chaean00](https://github.com/Chaean00)  | ![Image](https://github.com/user-attachments/assets/fb635bb3-a378-417c-8fa7-257bb0630757) <br> [@govl7016](https://github.com/govl7016)  | ![Image](https://github.com/user-attachments/assets/54a577b0-ede3-48ab-9b65-ad932a9db7ac) <br> [@DrivenByCode](https://github.com/DrivenByCode) | ![Image](https://github.com/user-attachments/assets/a1c64525-167d-47db-b1c8-edef8aec86b5) <br> [@naminlee](https://github.com/naminlee) | ![Image](https://github.com/user-attachments/assets/a182ee1e-aaad-4ae4-bcb2-66b4305c83ec) <br> [@J2Jayy](https://github.com/J2Jayy)
